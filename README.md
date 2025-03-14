@@ -12,7 +12,7 @@
 <a href="https://instagram.com/suhas_adiga" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.youtube.com/user/@suhasadiga5971" target="_blank">
+<a href="https://www.youtube.com/@suhasadiga5971" target="_blank">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>  
 <a href="https://github.com/SUHASADIGA" target="_blank">
