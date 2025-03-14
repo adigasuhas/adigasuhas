@@ -71,5 +71,3 @@ I have a strong interest in Machine Learning applications in materials science. 
 ![Profile views counter](https://komarev.com/ghpvc/?username=adigasuhas&&style=flat-square)  
 
 ---
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
