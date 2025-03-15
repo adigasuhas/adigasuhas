@@ -53,8 +53,6 @@ I have a strong interest in Machine Learning applications in materials science. 
 
 <br/>  
 
----
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=adigasuhas&&style=flat-square)  
 
 ---
