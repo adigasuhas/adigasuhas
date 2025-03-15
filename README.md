@@ -55,19 +55,6 @@ I have a strong interest in Machine Learning applications in materials science. 
 
 ---
 
-## 📊 GitHub Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adigasuhas&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adigasuhas&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
----
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=adigasuhas&&style=flat-square)  
 
 ---
