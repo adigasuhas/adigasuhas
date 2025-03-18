@@ -26,9 +26,8 @@ I have a strong interest in Machine Learning applications in materials science. 
 
 ---
 
-## 🔥 Rapidfire
+## 🔥 My Current Interests
 
-- I specialize in developing computational models and Machine Learning (ML) techniques for materials science, particularly in:
   - Superconductors ⚡  
   - Machine Learning in Materials Science 🧪  
   - High-throughput materials discovery 🔬  
