@@ -15,9 +15,7 @@
 <a href="https://www.youtube.com/@suhasadiga5971" target="_blank">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>  
-<a href="https://github.com/SUHASADIGA" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
 
 ### Glad to see you here!  
 I'm a 2nd-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh Waghmare. My research primarily focuses on Machine Learning applications in new materials search for superconductors. I apply data-driven approaches to accelerate the discovery and optimization of novel materials.
