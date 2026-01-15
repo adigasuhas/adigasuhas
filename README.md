@@ -1,20 +1,17 @@
 ## Hi, I'm Suhas Adiga!  
 
-<a href="https://github.com/adigasuhas" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://twitter.com/adiga_suhas" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://linkedin.com/in/suhas-adiga-a3a474201" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/suhas_adiga" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
 <a href="https://www.youtube.com/@suhasadiga5971" target="_blank">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>  
+</a>
+<a href="https://github.com/adigasuhas" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 
 I am a final-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh V. Waghmare. My research focuses on applying machine learning and data-driven approaches to accelerate the discovery and design of functional materials for energy applications. I work at the intersection of first-principles methods and machine learning, with current projects spanning superconductors, thermoelectrics, and geomaterials. 
