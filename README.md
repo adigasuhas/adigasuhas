@@ -17,7 +17,9 @@
 </a>  
 
 
-I am a final-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh V. Waghmare. My research focuses on applying machine learning and data-driven approaches to accelerate the discovery and design of functional materials for energy applications. I work at the intersection of first-principles methods and machine learning, with current projects spanning superconductors, thermoelectrics, and geomaterials. I am actively exploring Universal Machine Learning Interatomic Potentials (UMLIPs) for large-scale atomistic modeling, and developing NLP-based pipelines for literature mining and automated materials dataset construction.   
+I am a final-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh V. Waghmare. My research focuses on applying machine learning and data-driven approaches to accelerate the discovery and design of functional materials for energy applications. I work at the intersection of first-principles methods and machine learning, with current projects spanning superconductors, thermoelectrics, and geomaterials. 
+
+I am actively exploring Universal Machine Learning Interatomic Potentials (UMLIPs) for large-scale atomistic modeling, and developing NLP-based pipelines for literature mining and automated materials dataset construction.   
 
 ---
 
