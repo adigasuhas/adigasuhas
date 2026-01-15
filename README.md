@@ -17,18 +17,15 @@
 </a>  
 
 
-### Glad to see you here!  
-I'm a final-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh V. Waghmare. My research primarily focuses on Machine Learning applications in new materials search for superconductors. I apply data-driven approaches to accelerate the discovery and optimization of novel materials. In addition, I am exploring the usage of Universal Machine Learning Interatomic Potentials (UMLIPs) for modeling thermoelectrics and geomaterials.
-
-I have a strong interest in Machine Learning applications in materials science. Currently, I am working on its applications in superconductors, utilizing computational models and data-driven methodologies to enhance material discovery.  
+I am a final-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh V. Waghmare. My research focuses on applying machine learning and data-driven approaches to accelerate the discovery and design of functional materials for energy applications. I work at the intersection of first-principles methods and machine learning, with current projects spanning superconductors, thermoelectrics, and geomaterials. I am actively exploring Universal Machine Learning Interatomic Potentials (UMLIPs) for large-scale atomistic modeling, and developing NLP-based pipelines for literature mining and automated materials dataset construction.   
 
 ---
 
-## 🔥 My Current Interests
+##  My Current Interests
 
-  - Superconductors ⚡  
-  - Machine Learning in Materials Science 🧪  
-  - High-throughput materials discovery 🔬  
+  - Data-Driven Material Design using AI and Experiments  
+  - Foundational Models for Materials
+  - Interpretable ML for Materials Science (ML4MS)
 <br/>  
 
 
