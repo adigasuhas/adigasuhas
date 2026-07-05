@@ -14,9 +14,7 @@
 </a>
 
 
-I am a final-year MS student at the Theoretical Sciences Unit, JNCASR, working with Prof. Umesh V. Waghmare. My research focuses on applying machine learning and data-driven approaches to accelerate the discovery and design of functional materials for energy applications. I work at the intersection of first-principles methods and machine learning, with current projects spanning superconductors, thermoelectrics, and geomaterials. 
-
-I am actively exploring Universal Machine Learning Interatomic Potentials (UMLIPs) for large-scale atomistic modeling, and developing NLP-based pipelines for literature mining and automated materials dataset construction.   
+I'm Suhas Adiga, an M.S. graduate from the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru, where I worked under the supervision of [Prof. Umesh V. Waghmare](https://scholar.google.co.in/citations?user=EY7WIIwAAAAJ&hl=en). My research lies at the intersection of Materials Science and Machine Learning, with a particular focus on data-driven strategies for the discovery and design of functional materials.\n\nBeginning in October 2026, I will join [Prof. Matthew J. Rosseinsky](https://en.wikipedia.org/wiki/Matthew_Rosseinsky), [Dr. George R. Darling](https://openalex.org/authors/A5080860663), and [Dr. Chris Collins](https://www.liverpool.ac.uk/people/chris-michael-collins) at the [Materials Innovation Factory, University of Liverpool](https://www.liverpool.ac.uk/materials-innovation-factory/), as part of Cohort 3 of the [EPSRC CDT in Digital and Automated Materials Chemistry](https://www.liverpool.ac.uk/doctoral-training/digital-and-automated-materials-chemistry/).
 
 ---
 
